@@ -3,18 +3,6 @@
 </p>
 
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikandan-mk007&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-mk007&theme=tokyonight&hide_border=true" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-mk007&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
-</p>
-
-
 <h1 align="center">Hi, I'm Thangamanikandan</h1>
 <h3 align="center">Python Full Stack Developer | Django | React | DRF | MySQL</h3>
 
@@ -28,6 +16,17 @@
   <a href="mailto:thangamanikandan.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+</p>
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikandan-mk007&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-mk007&theme=tokyonight&hide_border=true" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-mk007&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
 </p>
 
 
@@ -147,7 +146,9 @@
 * 🔹 Job tracker + analytics dashboard
 
 **Tech:** FastAPI, NLP, JavaScript (Extension), React
- Status: Production-ready (Publishing soon)
+-  Firefox Add-on: https://addons.mozilla.org/en-US/firefox/addon/ai-job-assistant/
+-  Code V1: https://github.com/manikandan-mk007/Job-Assistant-AI
+-  Code V2: https://github.com/manikandan-mk007/ai-job-assistant
 
 
 
@@ -174,6 +175,8 @@
 * 🔹 Cloud sync using backend API
 
 **Tech:** JavaScript, Chrome Extension, FastAPI
+-  Edge Add-on: https://microsoftedge.microsoft.com/addons/detail/dkkkaogcgdnpnfcijpjldnadjbjjopme
+-  Code: https://github.com/manikandan-mk007/Copy-History-Manager
 
 
 
