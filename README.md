@@ -2,6 +2,19 @@
   <img src="images/breakout-dark.svg" alt="Breakout Game" />
 </p>
 
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikandan-mk007&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-mk007&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-mk007&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Thangamanikandan</h1>
 <h3 align="center">Python Full Stack Developer | Django | React | DRF | MySQL</h3>
 
@@ -18,14 +31,20 @@
 </p>
 
 
-
 ##  About Me
--  B.Tech Information Technology (2025)
--  Python Full Stack Developer
--  Skilled in Django, DRF, React, and MySQL
--  Building real-world web applications
--  Open to Full Stack Developer opportunities
 
+* 🎓 B.Tech Information Technology (2025)
+* 💻 Python Full Stack Developer (Fresher)
+* 🤖 Passionate about AI-powered applications & real-world systems
+* 🧠 Skilled in building scalable backend APIs & modern frontend UIs
+* 🎯 Actively seeking **Full Stack / AI Developer roles**
+
+##  What I Do
+
+* Build **real-world SaaS applications**
+* Develop **AI/NLP-powered systems**
+* Create **browser extensions with backend integration**
+* Design **clean, modern UI dashboards**
 
 
 ##  Tech Stack
@@ -99,35 +118,96 @@
 
 ##  Featured Projects
 
-###  Clinic Management System
-Full-stack clinic workflow system with role-based modules, lab reports, and billing.
 
-- **Tech:** Django, DRF, React, MySQL
-- **Live:** https://cmsadminlab.vercel.app/
-- **Code:** https://github.com/manikandan-mk007/CMS_Admin_Lab
+
+###  Clinic Management System
+
+> A real-world hospital workflow system with multi-role architecture and automated processes
+
+* 🔹 Doctor → Lab → Report → Billing workflow
+* 🔹 Role-based dashboards (Admin, Doctor, Lab Technician, Receptionist)
+* 🔹 Auto abnormal detection for lab reports
+* 🔹 Dynamic billing generation & validation
+* 🔹 Clean SaaS-style UI with secure authentication
+
+**Tech:** Django, DRF, React, MySQL
+-  Live: https://cmsadminlab.vercel.app/
+-  Code: https://github.com/manikandan-mk007/CMS_Admin_Lab
+
+
+
+###  AI Job Assistant (Chrome/Edge Extension + Backend)
+
+> AI-powered job analysis tool that helps users match their profile with job descriptions
+
+* 🔹 Smart job match score using NLP models
+* 🔹 Skill gap detection & keyword suggestions
+* 🔹 Resume parsing & optimization insights
+* 🔹 Works on LinkedIn, Indeed, Naukri & Glassdoor
+* 🔹 Job tracker + analytics dashboard
+
+**Tech:** FastAPI, NLP, JavaScript (Extension), React
+ Status: Production-ready (Publishing soon)
+
+
 
 ###  Resume Matcher Pro
-AI-powered resume matching system using NLP and semantic similarity.
 
-- **Tech:** Python, NLP, Streamlit
-- **Code:** https://github.com/manikandan-mk007/Resume_Matcher_Pro
+> AI-based resume vs job description matching system
+
+* 🔹 Semantic similarity scoring using NLP
+* 🔹 Skill gap identification
+* 🔹 Resume optimization suggestions
+
+**Tech:** Python, NLP, Streamlit
+-  Code: https://github.com/manikandan-mk007/Resume_Matcher_Pro
+
+
+
+###  Copy History Manager (Browser Extension)
+
+> Productivity extension for managing clipboard history with cloud sync
+
+* 🔹 Save & manage recently copied text
+* 🔹 Quick paste modal overlay
+* 🔹 Search & pin important items
+* 🔹 Cloud sync using backend API
+
+**Tech:** JavaScript, Chrome Extension, FastAPI
+
+
 
 ###  Expense Tracker React
-Expense management app for tracking transactions and spending patterns.
 
-- **Tech:** React, JavaScript
-- **Code:** https://github.com/manikandan-mk007/Expense-Tracker-React
+> Personal finance tracker with interactive dashboard
+
+* 🔹 Track income & expenses
+* 🔹 Category-based spending insights
+* 🔹 Visual charts for analysis
+
+**Tech:** React, JavaScript
+-  Code: https://github.com/manikandan-mk007/Expense-Tracker-React
+
+
 
 ###  Portfolio Website
-Personal portfolio website showcasing projects, skills, and contact integration.
 
-- **Tech:** React, Tailwind CSS, EmailJS
-- **Live:** https://portfolio-o5cw.onrender.com/
-- **Code:** https://github.com/manikandan-mk007/portfolio
+> Personal portfolio showcasing projects, skills, and contact system
+
+* 🔹 Modern UI with responsive design
+* 🔹 Contact integration using EmailJS
+* 🔹 Clean developer branding
+
+**Tech:** React, Tailwind CSS
+-  Live: https://portfolio-o5cw.onrender.com/
+-  Code: https://github.com/manikandan-mk007/portfolio
 
 ---
 
-## 📫 Connect With Me
+
+##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/thangamanikandan-i-560b20396/
 - Portfolio: https://portfolio-o5cw.onrender.com/
 - Email: thangamanikandan.it@gmail.com
+
+
