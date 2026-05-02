@@ -18,18 +18,6 @@
   </a>
 </p>
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikandan-mk007&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-mk007&theme=tokyonight&hide_border=true" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-mk007&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
-</p>
-
-
 ##  About Me
 
 * 🎓 B.Tech Information Technology (2025)
